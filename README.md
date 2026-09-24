@@ -44,14 +44,61 @@ I build across interfaces, APIs, databases, and applied AI to turn complex probl
 
 ---
 
-### 🚀 Featured Products & Platforms
+### 🌐 Client Deliveries & Commercial Production
+
+Production web systems and digital platforms engineered and delivered for commercial and institutional clients:
+
+<table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h4>🌍 International Client Delivery: <a href="https://mikemathics.com/">MikeMAThics</a></h4>
+      <p><b>1-on-1 Online Math Tutoring Platform & Student Booking Pipeline (US Grades 3–12)</b></p>
+      <p>Engineered an international EdTech web platform delivering personalized online math tutoring from elementary foundational arithmetic to AP Calculus. Architected a 5-stage automated booking journey: curriculum track matching, streamlined checkout & enrollment, personalized tutor matching, 12-session credit scheduling system, and student diagnostic tracking dashboards.</p>
+      <p>🔗 <b>Live Platform:</b> <a href="https://mikemathics.com/">mikemathics.com</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/EdTech_Platform-0052CC?style=flat-square" alt="EdTech" />
+        <img src="https://img.shields.io/badge/Credit_Scheduling-10B981?style=flat-square" alt="Scheduling" />
+        <img src="https://img.shields.io/badge/Multi--Step_Enrollment-8B5CF6?style=flat-square" alt="Enrollment" />
+        <img src="https://img.shields.io/badge/Responsive_UI-F59E0B?style=flat-square" alt="Responsive" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🏢 Commercial B2B/B2C: <a href="https://www.mr14trading.com/">MR14 Trading</a></h4>
+      <p><b>Nationwide Sourcing & Product Distribution Platform</b></p>
+      <p>Developed the official commercial web presence for a Philippine trading enterprise. Showcases 5 supply categories (Consumer Goods, Medical Supplies & Equipment, Office Supplies, Industrial Supplies, Cleaning Products) across government agencies, corporations, and healthcare facilities with a structured requirement-to-dispatch inquiry pipeline.</p>
+      <p>🔗 <b>Live Website:</b> <a href="https://www.mr14trading.com/">mr14trading.com</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/B2B_Platform-2563EB?style=flat-square" alt="B2B" />
+        <img src="https://img.shields.io/badge/Catalog_Architecture-059669?style=flat-square" alt="Catalog" />
+        <img src="https://img.shields.io/badge/Inquiry_Pipeline-D97706?style=flat-square" alt="Inquiry" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 Institutional Portal: <a href="https://www.odizeeschoolofachievers.site/">Odizee School of Achievers</a></h4>
+      <p><b>Official K-12 School Portal & Content Management System</b></p>
+      <p>Architected the official responsive web portal for a premier private K-12 institution in Alicia, Isabela. Features academic track presentations (Kindergarten through Senior High School STEM, ABM, HUMSS, GAS), dynamic news/event announcements, multimedia campus gallery, and digital admissions contact funnel.</p>
+      <p>🔗 <b>Live Portal:</b> <a href="https://www.odizeeschoolofachievers.site/">odizeeschoolofachievers.site</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/School_Portal-4F46E5?style=flat-square" alt="Portal" />
+        <img src="https://img.shields.io/badge/CMS_Architecture-0D9488?style=flat-square" alt="CMS" />
+        <img src="https://img.shields.io/badge/Admissions_Funnel-EC4899?style=flat-square" alt="Admissions" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Proprietary Products & Research Platforms
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🏆 <a href="https://campustrace.site/">CampusTrace</a></h4>
       <p><b>1st Place Champion — Most Innovative Project (16th ICT Roadshow)</b></p>
-      <p>A multi-tenant web and mobile lost-and-found recovery platform integrating AI visual matching, semantic embeddings, and RAG search to quickly reunite campus communities with lost items.</p>
+      <p>Multi-tenant web and mobile lost-and-found recovery system combining AI image recognition, semantic embeddings, and verifiable RAG search to reconnect university communities with lost belongings.</p>
       <p>🔗 <b>Live:</b> <a href="https://campustrace.site/">campustrace.site</a></p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
@@ -63,7 +110,7 @@ I build across interfaces, APIs, databases, and applied AI to turn complex probl
     <td width="50%" valign="top">
       <h4>🧠 <a href="https://learni.site/">Learni</a></h4>
       <p><b>AI-Powered Adaptive Learning Platform</b></p>
-      <p>Generates tailored learning roadmaps, interactive conceptual quizzes, and performance analytics to transform open-ended subjects into structured, measurable mastery paths.</p>
+      <p>Dynamic platform that structures open-ended learning topics into personalized roadmaps, interactive concept validation quizzes, and progress analytics.</p>
       <p>🔗 <b>Live:</b> <a href="https://learni.site/">learni.site</a></p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -77,7 +124,7 @@ I build across interfaces, APIs, databases, and applied AI to turn complex probl
     <td width="50%" valign="top">
       <h4>💳 <a href="https://perako.sanx.dev/">Perako / PerakoPH</a></h4>
       <p><b>Financial Progressive Web Application</b></p>
-      <p>A personal finance PWA engineered with local-first architecture, background cloud synchronization, conflict resolution, and intelligent transaction categorization.</p>
+      <p>Personal finance PWA with local-first offline storage, automatic cloud sync upon reconnection, conflict detection, and AI transaction parsing.</p>
       <p>🔗 <b>Live:</b> <a href="https://perako.sanx.dev/">perako.sanx.dev</a> · <a href="https://perako.onrender.com/">Render Mirror</a></p>
       <p>
         <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
@@ -87,8 +134,8 @@ I build across interfaces, APIs, databases, and applied AI to turn complex probl
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://marka.sanx.dev/">Marka</a></h4>
-      <p><b>ISU Academic GWA & Evaluation Calculator</b></p>
-      <p>A specialized academic performance tool built for Isabela State University students to calculate, track, and project Grade Weighted Averages with accurate institutional weighting.</p>
+      <p><b>ISU Academic GWA & Evaluation Tool</b></p>
+      <p>Accurate grade point and academic projection tool built specifically around Isabela State University grading standards and unit distributions.</p>
       <p>🔗 <b>Live:</b> <a href="https://marka.sanx.dev/">marka.sanx.dev</a></p>
       <p>
         <img src="https://img.shields.io/badge/Web-3B82F6?style=flat-square" alt="Web" />
@@ -99,21 +146,8 @@ I build across interfaces, APIs, databases, and applied AI to turn complex probl
   </tr>
 </table>
 
-* ⚡ **Remie — AI-Powered Personal Productivity Assistant:** Unified assistant integrating task pipelines, calendar scheduling, expense management, and personal episodic memory with local caching and LLM contextual recall.
-* 🔍 **[Portfolio RAG Assistant](https://franklinbugauisan.sanx.dev/) — Grounded AI Retrieval:** Vector-based RAG chatbot with intent routing and query optimization to answer technical questions regarding my projects and architecture choices.
-
----
-
-### 🌐 Client Deliveries & Commercial Production
-
-Websites and digital platforms developed and delivered for clients locally and internationally:
-
-#### 🌍 International Client Deliveries
-* 📐 **[Mikemathics](https://mikemathics.com/)** — A modern mathematics and learning portal delivering intuitive educational materials, interactive tools, and clean digital experiences for international students.
-
-#### 🏢 Local Client Deliveries
-* 🎓 **[Odizee School of Achievers](https://www.odizeeschoolofachievers.site/)** — Official responsive web portal and CMS for school admissions, institutional announcements, and community communications.
-* 📈 **[MR14 Trading](https://www.mr14trading.com/)** — Commercial business platform establishing digital presence, services showcase, and client outreach for trading operations.
+* ⚡ **Remie — AI-Powered Personal Productivity Assistant:** Unified multi-module assistant combining tasks, calendar scheduling, expense tracking, and natural-language episodic memory with local-first offline caching.
+* 🔍 **[Portfolio RAG Chatbot](https://franklinbugauisan.sanx.dev/) — Grounded AI Retrieval:** Vector-based RAG assistant embedded in my personal website with semantic intent routing to answer technical inquiries about my stack and projects.
 
 ---
 
